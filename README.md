@@ -16,7 +16,9 @@
     mac/linux: python 3 -m venv venv
 
 2. Activate it:
+
     windows: .\venv\Scripts\Activate.ps1
+    
     mac/linux: source venv/bin/activate
 
 3. Install Req:
