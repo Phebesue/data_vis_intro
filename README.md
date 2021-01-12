@@ -2,6 +2,9 @@
 
 ## Getting Started:
 
+#### Get the Data
+ (Walk-thru: https://github.com/swftdev/data_vis_intro)
+
 1. Get the CSV from
 [kaggle.com covid-data](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset?select=covid_19_data.csv)
 
