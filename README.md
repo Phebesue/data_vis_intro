@@ -11,8 +11,8 @@
 2. Add it to the data folder
 
 #### Install dependencies
-1. Make a venv:
-    windows: py -m venv venv
+1. Make a venv: ||
+    windows: py -m venv venv ||
     mac/linux: python 3 -m venv venv
 
 2. Activate it:
